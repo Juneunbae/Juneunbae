@@ -3,8 +3,10 @@
 </h1>
 
 <div align="center">
+  <img width="auto" src=https://user-images.githubusercontent.com/96857114/183391948-7af9941c-df44-4a10-81ce-37bed78299e3.jpeg>
+
   <h3>
-  💻Tech Skills💻
+  💻Back-Tech Skills💻
   </h3>
   <h3>
     🥘 Main
