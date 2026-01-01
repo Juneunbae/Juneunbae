@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm%20Eunbae&fontSize=90" />
 </div>
 
-<h3 align="center"> 🎫 My Experience 🎫 </h3>
+<h3 align="center"> 🎫 Career 🎫 </h3>
 
 <table align="center">
   <tr>
@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="center">🧑‍💻 Contact me 🧑‍💻 </h3>
+<h3 align="center">🧑‍💻 Tech Blog 🧑‍💻 </h3>
 <div align= "center">
     <a href=https://velog.io/@dmsqo1403/posts> 
       <img src="https://img.shields.io/badge/velog-4FC08?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@dmsqo1403/posts"> 
@@ -26,7 +26,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">🛠 Tech Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black" />
@@ -49,7 +49,7 @@
 
 <br>
 
-<h3 align="center">📚 Study 📚</h3>
+<h3 align="center">📚 Tech Study 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
